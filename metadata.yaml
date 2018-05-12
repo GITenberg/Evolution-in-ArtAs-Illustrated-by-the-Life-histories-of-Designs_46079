@@ -1,0 +1,34 @@
+_repo: Evolution-in-ArtAs-Illustrated-by-the-Life-histories-of-Designs_46079
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46079-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Haddon, Alfred C. (Alfred Cort)
+    aliases:
+    - Haddon, A. C. (Alfred Cort)
+    - Haddon, Alfred Cort
+    birthdate: 1855
+    deathdate: 1940
+    gutenberg_agent_id: '32226'
+    url: http://www.gutenberg.org/2009/agents/32226
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Cort_Haddon
+description: ''
+gutenberg_issued: '2014-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46079'
+  lccn: 06033568
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Decoration and ornament'
+- !lcsh 'Art, Primitive'
+- !lcc 'N'
+- !lcc 'NK'
+- !lcsh 'Decoration and ornament, Primitive'
+title: 'Evolution in Art: As Illustrated by the Life-histories of Designs'
+url: http://www.gutenberg.org/ebooks/46079
