@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32226
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Cort_Haddon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46079#Evolution-in-ArtAs-Illustrated-by-the-Life-histories-of-Designs
 gutenberg_issued: '2014-06-23'
 gutenberg_type: Text
 identifiers:
